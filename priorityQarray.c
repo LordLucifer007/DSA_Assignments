@@ -8,7 +8,7 @@ void swap(int *a, int *b) {
 
 void heapify(int array[], int size, int i) {
   if (size == 1) {
-    printf("Single element in the heap");
+    printf("Single element in the array");
   } else {
     int largest = i;
     int l = 2 * i + 1;
