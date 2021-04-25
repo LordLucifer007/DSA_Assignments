@@ -1,7 +1,7 @@
 #include<math.h>
 #include<stdio.h>
 #include<conio.h>
-#define MAX 17
+#define MAX 20
 void init(int p[]);
 void read(int p[]);
 void print(int p[]);
